@@ -2,3 +2,5 @@ this is stash file
 
 modified stash file
 another modification
+changed
+new
